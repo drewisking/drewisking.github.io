@@ -4,9 +4,9 @@
     <file name="master_a-master.css" crc="4105019174" ref="architecture:other-works:about:index:contact"/>
     <file name="architecture.css" crc="4235738568" ref="architecture"/>
     <file name="other-works.css" crc="3929594779" ref="other-works"/>
-    <file name="about.css" crc="211064199" ref="about"/>
+    <file name="about.css" crc="3871825336" ref="about"/>
     <file name="index.css" crc="408909898" ref="index"/>
-    <file name="contact.css" crc="290092376" ref="contact"/>
+    <file name="contact.css" crc="4034988076" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:architecture:about:contact:other-works"/>
@@ -160,7 +160,7 @@
   </folder>
   <file name="index.html" crc="324140892" mt="1401233842047" redirect="true"/>
   <file name="architecture.html" crc="4145379555" mt="1401233842048" redirect="true"/>
-  <file name="about.html" crc="190393635" mt="1401233842050" redirect="true"/>
-  <file name="contact.html" crc="3814659837" mt="1401233842052" redirect="true"/>
+  <file name="about.html" crc="190393635" mt="1401233952357" redirect="true"/>
+  <file name="contact.html" crc="3814659837" mt="1401233971964" redirect="true"/>
   <file name="other-works.html" crc="3884083715" mt="1401233842053" redirect="true"/>
 </manifest>
