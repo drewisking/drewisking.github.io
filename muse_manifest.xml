@@ -5,7 +5,7 @@
     <file name="architecture.css" crc="466685916" ref="architecture"/>
     <file name="other-works.css" crc="4114715043" ref="other-works"/>
     <file name="about.css" crc="485347046" ref="about"/>
-    <file name="index.css" crc="3972615778" ref="index"/>
+    <file name="index.css" crc="3907578110" ref="index"/>
     <file name="contact.css" crc="3977771879" ref="contact"/>
   </folder>
   <folder name="scripts">
@@ -14,7 +14,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:architecture:about:contact:other-works"/>
     <file name="jquery.musemenu.js" crc="32367222" ref="index:architecture:about:contact:other-works"/>
     <file name="jquery.watch.js" crc="4199601726" ref="index:architecture:about:contact:other-works"/>
-    <file name="pie.js" crc="4147615982" ref="architecture:other-works"/>
+    <file name="pie.js" crc="4147615982" ref="architecture:other-works:index"/>
     <file name="webpro.js" crc="33264525" ref="architecture:contact:other-works"/>
     <file name="musewpslideshow.js" crc="272207905" ref="architecture:other-works"/>
     <file name="jquery.museoverlay.js" crc="466079611" ref="architecture:other-works"/>
@@ -159,7 +159,7 @@
     <file name="lightbulb167x106.jpg" crc="3780104799" ref="other-works"/>
     <file name="new iphone pictures update 258142x107.jpg" crc="23495656" ref="other-works"/>
   </folder>
-  <file name="index.html" crc="405799594" mt="1400884700900" redirect="true"/>
+  <file name="index.html" crc="3830774146" mt="1401233658643" redirect="true"/>
   <file name="architecture.html" crc="281228748" mt="1401153434744" redirect="true"/>
   <file name="about.html" crc="393061630" mt="1400884700904" redirect="true"/>
   <file name="contact.html" crc="424926898" mt="1400884700908" redirect="true"/>
