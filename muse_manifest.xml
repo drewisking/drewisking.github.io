@@ -1,0 +1,167 @@
+<manifest alg="2" build="5" opt="true" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="119307988"/>
+    <file name="master_a-master.css" crc="4105019174" ref="architecture:other-works:about:index:contact"/>
+    <file name="architecture.css" crc="153406534" ref="architecture"/>
+    <file name="other-works.css" crc="4114715043" ref="other-works"/>
+    <file name="about.css" crc="485347046" ref="about"/>
+    <file name="index.css" crc="3972615778" ref="index"/>
+    <file name="contact.css" crc="3977771879" ref="contact"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:architecture:about:contact:other-works"/>
+    <file name="museutils.js" crc="3880880085" ref="index:architecture:about:contact:other-works"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:architecture:about:contact:other-works"/>
+    <file name="jquery.musemenu.js" crc="32367222" ref="index:architecture:about:contact:other-works"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="index:architecture:about:contact:other-works"/>
+    <file name="pie.js" crc="4147615982" ref="architecture:other-works"/>
+    <file name="webpro.js" crc="33264525" ref="architecture:contact:other-works"/>
+    <file name="musewpslideshow.js" crc="272207905" ref="architecture:other-works"/>
+    <file name="jquery.museoverlay.js" crc="466079611" ref="architecture:other-works"/>
+    <file name="touchswipe.js" crc="261777990" ref="architecture:other-works"/>
+    <file name="musewpdisclosure.js" crc="250538392" ref="architecture:other-works"/>
+    <file name="form_check.php" crc="39676790" ref="contact"/>
+    <file name="form_throttle.php" crc="4202036461" ref="contact"/>
+    <file name="form-u1690.php" crc="193000979" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="money shot.jpg" crc="3775183978" ref="index:architecture:about:contact:other-works"/>
+    <file name="drew gilbert.png" crc="340665122" ref="index:architecture:about:contact:other-works"/>
+    <file name="moneyshot final.jpg" crc="3813015226" ref="index:architecture"/>
+    <file name="blank.gif" crc="4208392903" ref="architecture:other-works"/>
+    <file name="aerial shot.jpg" crc="176357956" ref="architecture"/>
+    <file name="faces inspiration.jpg" crc="3957263894" ref="architecture"/>
+    <file name="elevation.jpg" crc="4241859746" ref="architecture"/>
+    <file name="detail.jpg" crc="44214898" ref="architecture"/>
+    <file name="hallway perspective.jpg" crc="3971138540" ref="architecture"/>
+    <file name="section.jpg" crc="320144047" ref="architecture"/>
+    <file name="first floor.jpg" crc="3832155821" ref="architecture"/>
+    <file name="second floor.jpg" crc="311862612" ref="architecture"/>
+    <file name="third floor.jpg" crc="230220991" ref="architecture"/>
+    <file name="site plan.jpg" crc="4166804752" ref="architecture"/>
+    <file name="moneyshot final172x110.jpg" crc="328931387" ref="architecture"/>
+    <file name="aerial shot161x109.jpg" crc="517934618" ref="architecture"/>
+    <file name="faces inspiration162x109.jpg" crc="3825081518" ref="architecture"/>
+    <file name="elevation305x109.jpg" crc="380483219" ref="architecture"/>
+    <file name="detail111x192.jpg" crc="3781533772" ref="architecture"/>
+    <file name="hallway perspective154x116.jpg" crc="265741547" ref="architecture"/>
+    <file name="section282x109.jpg" crc="293557095" ref="architecture"/>
+    <file name="first floor163x110.jpg" crc="142479973" ref="architecture"/>
+    <file name="second floor164x109.jpg" crc="4003258065" ref="architecture"/>
+    <file name="third floor163x109.jpg" crc="4043633577" ref="architecture"/>
+    <file name="site plan164x109.jpg" crc="3798949988" ref="architecture"/>
+    <file name="loading.gif" crc="3815509949" ref="architecture:other-works"/>
+    <file name="elevation with model.jpg" crc="488467462" ref="architecture"/>
+    <file name="exterior perspective 1 finished.jpg" crc="4041492650" ref="architecture"/>
+    <file name="pavilion perspective_drew gibert.jpg" crc="3858266130" ref="architecture"/>
+    <file name="elevation with model277x111.jpg" crc="331687521" ref="architecture"/>
+    <file name="exterior perspective 1 finished269x110.jpg" crc="4104512157" ref="architecture"/>
+    <file name="pavilion perspective_drew gibert355x145.jpg" crc="3984223490" ref="architecture"/>
+    <file name="outside perspective.jpg" crc="4019246829" ref="architecture"/>
+    <file name="kitchen space.jpg" crc="3788583926" ref="architecture"/>
+    <file name="elevation2.jpg" crc="123545435" ref="architecture"/>
+    <file name="elevation 2.jpg" crc="3823962291" ref="architecture"/>
+    <file name="section 2.jpg" crc="4140357821" ref="architecture"/>
+    <file name="section 1.jpg" crc="170125844" ref="architecture"/>
+    <file name="concept drawing.jpg" crc="487633897" ref="architecture"/>
+    <file name="first floor2.jpg" crc="147378282" ref="architecture"/>
+    <file name="second floor2.jpg" crc="2269646" ref="architecture"/>
+    <file name="money shot178x110.jpg" crc="3933478788" ref="architecture"/>
+    <file name="outside perspective146x110.jpg" crc="4172044930" ref="architecture"/>
+    <file name="kitchen space169x110.jpg" crc="4190394565" ref="architecture"/>
+    <file name="concept drawing200x110.jpg" crc="407034544" ref="architecture"/>
+    <file name="first floor197x110.jpg" crc="450420729" ref="architecture"/>
+    <file name="second floor185x110.jpg" crc="44982450" ref="architecture"/>
+    <file name="ui symbol.jpg" crc="3901208948" ref="architecture"/>
+    <file name="front entrance.jpg" crc="132761200" ref="architecture"/>
+    <file name="money shot2.jpg" crc="4141541086" ref="architecture"/>
+    <file name="parking lot.jpg" crc="4057513690" ref="architecture"/>
+    <file name="event space.jpg" crc="4280030491" ref="architecture"/>
+    <file name="exhibit space.jpg" crc="3873454548" ref="architecture"/>
+    <file name="floor plan.jpg" crc="3986991596" ref="architecture"/>
+    <file name="ui symbol150x113.jpg" crc="3997390284" ref="architecture"/>
+    <file name="front entrance150x113.jpg" crc="4288533162" ref="architecture"/>
+    <file name="money shot250x112.jpg" crc="4080824591" ref="architecture"/>
+    <file name="parking lot197x112.jpg" crc="462636547" ref="architecture"/>
+    <file name="event space150x113.jpg" crc="167434353" ref="architecture"/>
+    <file name="exhibit space150x113.jpg" crc="4068749310" ref="architecture"/>
+    <file name="floor plan172x112.jpg" crc="3827696397" ref="architecture"/>
+    <file name="3d perspective.jpg" crc="103261150" ref="architecture"/>
+    <file name="elevation3.jpg" crc="87636781" ref="architecture"/>
+    <file name="paraline.jpg" crc="369764179" ref="architecture"/>
+    <file name="section2.jpg" crc="4250401606" ref="architecture"/>
+    <file name="3d perspective117x110.jpg" crc="3927580862" ref="architecture"/>
+    <file name="elevation237x110.jpg" crc="364945029" ref="architecture"/>
+    <file name="paraline113x110.jpg" crc="3904349080" ref="architecture"/>
+    <file name="section202x110.jpg" crc="277771553" ref="architecture"/>
+    <file name="picture of me.jpg" crc="171198607" ref="about:contact"/>
+    <file name="u1723-17.png" crc="199554554" ref="contact"/>
+    <file name="u1723-17-r.png" crc="4073510108" ref="contact"/>
+    <file name="u1723-17-m.png" crc="4270574922" ref="contact"/>
+    <file name="u1723-17-fs.png" crc="361920382" ref="contact"/>
+    <file name="austin brown.jpg" crc="3803705557" ref="other-works"/>
+    <file name="balcony.jpg" crc="182396171" ref="other-works"/>
+    <file name="isaac.jpg" crc="91958523" ref="other-works"/>
+    <file name="number of dowels.jpg" crc="3920428454" ref="other-works"/>
+    <file name="rows smaller attempt 2.jpg" crc="4270567277" ref="other-works"/>
+    <file name="austin brown147x110.jpg" crc="451409131" ref="other-works"/>
+    <file name="balcony166x110.jpg" crc="173428198" ref="other-works"/>
+    <file name="isaac110x166.jpg" crc="4268530628" ref="other-works"/>
+    <file name="number of dowels177x110.jpg" crc="4033372569" ref="other-works"/>
+    <file name="fathom hotel black bacground.jpg" crc="430532446" ref="other-works"/>
+    <file name="martini bar black background.jpg" crc="226068073" ref="other-works"/>
+    <file name="royal motor inn remodel black background.jpg" crc="4074723656" ref="other-works"/>
+    <file name="visitor center render.jpg" crc="323330253" ref="other-works"/>
+    <file name="visitor center roof structure.jpg" crc="475215005" ref="other-works"/>
+    <file name="fathom hotel black bacground152x110.jpg" crc="471675422" ref="other-works"/>
+    <file name="martini bar black background167x111.jpg" crc="294072263" ref="other-works"/>
+    <file name="royal motor inn remodel black background147x110.jpg" crc="4124221588" ref="other-works"/>
+    <file name="visitor center render257x110.jpg" crc="4161798047" ref="other-works"/>
+    <file name="visitor center roof structure179x110.jpg" crc="4022519711" ref="other-works"/>
+    <file name="audi r8.jpg" crc="57322396" ref="other-works"/>
+    <file name="goose final.jpg" crc="409936405" ref="other-works"/>
+    <file name="new iphone pictures update 010.jpg" crc="504848202" ref="other-works"/>
+    <file name="new iphone pictures update 032.jpg" crc="3906511462" ref="other-works"/>
+    <file name="new iphone pictures update 554.jpg" crc="104583296" ref="other-works"/>
+    <file name="new iphone pictures update 681.jpg" crc="3835910994" ref="other-works"/>
+    <file name="subrau impreza.jpg" crc="81266755" ref="other-works"/>
+    <file name="xena.jpg" crc="485050875" ref="other-works"/>
+    <file name="albertsons without words.jpg" crc="4019064974" ref="other-works"/>
+    <file name="dice.jpg" crc="141824325" ref="other-works"/>
+    <file name="img_0178.jpg" crc="4174331877" ref="other-works"/>
+    <file name="img_0408.jpg" crc="499686860" ref="other-works"/>
+    <file name="img_0434.jpg" crc="382505181" ref="other-works"/>
+    <file name="img_0502.jpg" crc="67517481" ref="other-works"/>
+    <file name="img_0519.jpg" crc="4126602115" ref="other-works"/>
+    <file name="img_0528.jpg" crc="446595510" ref="other-works"/>
+    <file name="img_0553.jpg" crc="208771290" ref="other-works"/>
+    <file name="img_0578.jpg" crc="44710101" ref="other-works"/>
+    <file name="lightbulb.jpg" crc="353656403" ref="other-works"/>
+    <file name="new iphone pictures update 006.jpg" crc="379923901" ref="other-works"/>
+    <file name="new iphone pictures update 258.jpg" crc="157315399" ref="other-works"/>
+    <file name="audi r8191x107.jpg" crc="232887379" ref="other-works"/>
+    <file name="goose final149x107.jpg" crc="4200969118" ref="other-works"/>
+    <file name="new iphone pictures update 032142x107.jpg" crc="91340952" ref="other-works"/>
+    <file name="new iphone pictures update 554142x107.jpg" crc="403231700" ref="other-works"/>
+    <file name="new iphone pictures update 681109x146.jpg" crc="511339290" ref="other-works"/>
+    <file name="subrau impreza142x107.jpg" crc="3959870497" ref="other-works"/>
+    <file name="xena109x150.jpg" crc="4054494862" ref="other-works"/>
+    <file name="albertsons without words150x106.jpg" crc="384359456" ref="other-works"/>
+    <file name="dice139x106.jpg" crc="227509887" ref="other-works"/>
+    <file name="img_0178142x107.jpg" crc="437097843" ref="other-works"/>
+    <file name="img_0408142x107.jpg" crc="433859235" ref="other-works"/>
+    <file name="img_0434142x107.jpg" crc="4289674606" ref="other-works"/>
+    <file name="img_0502142x107.jpg" crc="3874266181" ref="other-works"/>
+    <file name="img_0519142x107.jpg" crc="391577550" ref="other-works"/>
+    <file name="img_0528142x107.jpg" crc="122768535" ref="other-works"/>
+    <file name="img_0553142x107.jpg" crc="4139362631" ref="other-works"/>
+    <file name="img_0578142x107.jpg" crc="296655553" ref="other-works"/>
+    <file name="lightbulb167x106.jpg" crc="3780104799" ref="other-works"/>
+    <file name="new iphone pictures update 258142x107.jpg" crc="23495656" ref="other-works"/>
+  </folder>
+  <file name="index.html" crc="405799594" mt="1400884700900" redirect="true"/>
+  <file name="architecture.html" crc="33323835" mt="1400884700902" redirect="true"/>
+  <file name="about.html" crc="393061630" mt="1400884700904" redirect="true"/>
+  <file name="contact.html" crc="424926898" mt="1400884700908" redirect="true"/>
+  <file name="other-works.html" crc="4019245332" mt="1400884700909" redirect="true"/>
+</manifest>
