@@ -1,7 +1,6 @@
 .html
 {
-	background: #DEDEDE url("../images/money%20shot.jpg") no-repeat center top fixed;
-	background-size: cover !important;
+	background-color: #DEDEDE;
 }
 
 #page

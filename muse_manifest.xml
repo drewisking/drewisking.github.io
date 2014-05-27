@@ -2,16 +2,15 @@
   <folder name="css">
     <file name="site_global.css" crc="119307988"/>
     <file name="master_a-master.css" crc="4105019174" ref="architecture:other-works:about:index:contact"/>
-    <file name="architecture.css" crc="466685916" ref="architecture"/>
-    <file name="other-works.css" crc="4114715043" ref="other-works"/>
-    <file name="about.css" crc="485347046" ref="about"/>
-    <file name="index.css" crc="3907578110" ref="index"/>
-    <file name="contact.css" crc="3977771879" ref="contact"/>
+    <file name="architecture.css" crc="4235738568" ref="architecture"/>
+    <file name="other-works.css" crc="3929594779" ref="other-works"/>
+    <file name="about.css" crc="211064199" ref="about"/>
+    <file name="index.css" crc="408909898" ref="index"/>
+    <file name="contact.css" crc="290092376" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:architecture:about:contact:other-works"/>
     <file name="museutils.js" crc="3880880085" ref="index:architecture:about:contact:other-works"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3899542795" ref="index:architecture:about:contact:other-works"/>
     <file name="jquery.musemenu.js" crc="32367222" ref="index:architecture:about:contact:other-works"/>
     <file name="jquery.watch.js" crc="4199601726" ref="index:architecture:about:contact:other-works"/>
     <file name="pie.js" crc="4147615982" ref="architecture:other-works:index"/>
@@ -25,7 +24,7 @@
     <file name="form-u1690.php" crc="193000979" ref="contact"/>
   </folder>
   <folder name="images">
-    <file name="money shot.jpg" crc="3775183978" ref="index:architecture:about:contact:other-works"/>
+    <file name="money shot.jpg" crc="3775183978" ref="architecture"/>
     <file name="drew gilbert.png" crc="340665122" ref="index:architecture:about:contact:other-works"/>
     <file name="moneyshot final.jpg" crc="3813015226" ref="index:architecture"/>
     <file name="blank.gif" crc="4208392903" ref="architecture:other-works"/>
@@ -159,9 +158,9 @@
     <file name="lightbulb167x106.jpg" crc="3780104799" ref="other-works"/>
     <file name="new iphone pictures update 258142x107.jpg" crc="23495656" ref="other-works"/>
   </folder>
-  <file name="index.html" crc="3830774146" mt="1401233658643" redirect="true"/>
-  <file name="architecture.html" crc="281228748" mt="1401153434744" redirect="true"/>
-  <file name="about.html" crc="393061630" mt="1400884700904" redirect="true"/>
-  <file name="contact.html" crc="424926898" mt="1400884700908" redirect="true"/>
-  <file name="other-works.html" crc="4112059588" mt="1401153473282" redirect="true"/>
+  <file name="index.html" crc="324140892" mt="1401233842047" redirect="true"/>
+  <file name="architecture.html" crc="4145379555" mt="1401233842048" redirect="true"/>
+  <file name="about.html" crc="190393635" mt="1401233842050" redirect="true"/>
+  <file name="contact.html" crc="3814659837" mt="1401233842052" redirect="true"/>
+  <file name="other-works.html" crc="3884083715" mt="1401233842053" redirect="true"/>
 </manifest>
