@@ -14,19 +14,16 @@
 #page
 {
 	z-index: 1;
-	width: 1040px;
-	min-height: 486px;
-	padding-left: 20px;
-	padding-top: 14px;
-	padding-right: 20px;
+	width: 1080px;
+	min-height: 500px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#pu1632
+#page_position_content
 {
-	width: 0.01px;
-	position: relative;
+	margin-top: 14px;
+	margin-bottom: -4px;
 }
 
 #u1632
@@ -46,20 +43,13 @@
 	left: 314px;
 }
 
-#pmenuu95
-{
-	width: 0.01px;
-	top: -8px;
-	margin-bottom: -8px;
-	position: relative;
-}
-
 #menuu95
 {
 	z-index: 3;
 	width: 1040px;
-	margin-right: -10000px;
-	margin-top: 1px;
+	margin-left: 20px;
+	top: -7px;
+	margin-bottom: -7px;
 }
 
 #u103
@@ -231,6 +221,13 @@
 	top: 7px;
 }
 
+#pu1632,#pu3453
+{
+	width: 0.01px;
+	margin-left: 20px;
+	position: relative;
+}
+
 #u3453
 {
 	z-index: 36;
@@ -241,7 +238,7 @@
 	background-color: rgba(255, 255, 255, 0.5);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 665px;
+	margin-top: 629px;
 	-pie-background: rgba(255, 255, 255, 0.5);
 }
 
@@ -251,7 +248,6 @@
 	width: 1040px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 36px;
 }
 
 #u1195_clip
@@ -270,7 +266,7 @@
 {
 	z-index: 40;
 	width: 1039px;
-	height: 738px;
+	height: 702px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #000000;
@@ -283,14 +279,14 @@
 #u3360
 {
 	z-index: 39;
-	width: 996px;
+	width: 489px;
 	min-height: 100px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 6px;
-	top: -37px;
-	margin-bottom: -37px;
+	margin-left: 26px;
+	top: -33px;
+	margin-bottom: -33px;
 	position: relative;
 }
 
