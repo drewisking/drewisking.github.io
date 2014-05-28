@@ -5,7 +5,7 @@
     <file name="architecture.css" crc="4137242307" ref="architecture"/>
     <file name="other-works.css" crc="313115100" ref="other-works"/>
     <file name="about.css" crc="4172928326" ref="about"/>
-    <file name="index.css" crc="4054871812" ref="index"/>
+    <file name="index.css" crc="25227477" ref="index"/>
     <file name="contact.css" crc="3879882730" ref="contact"/>
   </folder>
   <folder name="scripts">
@@ -158,9 +158,9 @@
     <file name="lightbulb167x106.jpg" crc="3780104799" ref="other-works"/>
     <file name="new iphone pictures update 258142x107.jpg" crc="23495656" ref="other-works"/>
   </folder>
-  <file name="index.html" crc="16251562" mt="1401250141737" redirect="true"/>
-  <file name="architecture.html" crc="4145379555" mt="1401234190122" redirect="true"/>
-  <file name="about.html" crc="190393635" mt="1401234190124" redirect="true"/>
-  <file name="contact.html" crc="3814659837" mt="1401234190126" redirect="true"/>
-  <file name="other-works.html" crc="3884083715" mt="1401234190129" redirect="true"/>
+  <file name="index.html" crc="3781342730" mt="1401250441759" redirect="true"/>
+  <file name="architecture.html" crc="4145379555" mt="1401250352820" redirect="true"/>
+  <file name="about.html" crc="190393635" mt="1401250352823" redirect="true"/>
+  <file name="contact.html" crc="3814659837" mt="1401250352831" redirect="true"/>
+  <file name="other-works.html" crc="3884083715" mt="1401250352832" redirect="true"/>
 </manifest>
