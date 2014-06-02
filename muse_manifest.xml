@@ -1,12 +1,12 @@
-<manifest alg="2" build="5" opt="true" iceEnabled="true">
+<manifest alg="2" build="30" opt="true" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="119307988"/>
-    <file name="master_a-master.css" crc="4105019174" ref="architecture:other-works:about:index:contact"/>
-    <file name="architecture.css" crc="4137242307" ref="architecture"/>
-    <file name="other-works.css" crc="313115100" ref="other-works"/>
+    <file name="master_a-master.css" crc="4055780325" ref="architecture:other-works:about:index:contact"/>
+    <file name="architecture.css" crc="3889942991" ref="architecture"/>
+    <file name="other-works.css" crc="4136950442" ref="other-works"/>
     <file name="about.css" crc="4172928326" ref="about"/>
     <file name="index.css" crc="438115720" ref="index"/>
-    <file name="contact.css" crc="3879882730" ref="contact"/>
+    <file name="contact.css" crc="3858342070" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:architecture:about:contact:other-works"/>
@@ -19,9 +19,9 @@
     <file name="jquery.museoverlay.js" crc="466079611" ref="architecture:other-works"/>
     <file name="touchswipe.js" crc="261777990" ref="architecture:other-works"/>
     <file name="musewpdisclosure.js" crc="250538392" ref="architecture:other-works"/>
-    <file name="form_check.php" crc="39676790" ref="contact"/>
-    <file name="form_throttle.php" crc="4202036461" ref="contact"/>
-    <file name="form-u1690.php" crc="193000979" ref="contact"/>
+    <file name="form_check.php" crc="28954828" ref="contact"/>
+    <file name="form_throttle.php" crc="412380283" ref="contact"/>
+    <file name="form-u1690.php" crc="83056998" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="money shot.jpg" crc="3775183978" ref="architecture"/>
@@ -158,9 +158,9 @@
     <file name="lightbulb167x106.jpg" crc="3780104799" ref="other-works"/>
     <file name="new iphone pictures update 258142x107.jpg" crc="23495656" ref="other-works"/>
   </folder>
-  <file name="index.html" crc="3910975363" mt="1401250570424" redirect="true"/>
-  <file name="architecture.html" crc="4145379555" mt="1401250352820" redirect="true"/>
-  <file name="about.html" crc="190393635" mt="1401250352823" redirect="true"/>
-  <file name="contact.html" crc="3814659837" mt="1401250352831" redirect="true"/>
-  <file name="other-works.html" crc="3884083715" mt="1401250352832" redirect="true"/>
+  <file name="index.html" crc="291398533" mt="1401250570424" redirect="true"/>
+  <file name="architecture.html" crc="4130942587" mt="1401250352820" redirect="true"/>
+  <file name="about.html" crc="3976634736" mt="1401250352823" redirect="true"/>
+  <file name="contact.html" crc="317051333" mt="1401250352831" redirect="true"/>
+  <file name="other-works.html" crc="4240974616" mt="1401250352832" redirect="true"/>
 </manifest>
