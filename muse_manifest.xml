@@ -6,7 +6,7 @@
     <file name="other-works.css" crc="4136950442" ref="other-works"/>
     <file name="about.css" crc="4172928326" ref="about"/>
     <file name="index.css" crc="7848035" ref="index"/>
-    <file name="contact.css" crc="3858342070" ref="contact"/>
+    <file name="contact.css" crc="498204795" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="3828297711" ref="index:architecture:about:contact:other-works"/>
@@ -14,14 +14,11 @@
     <file name="jquery.musemenu.js" crc="32367222" ref="index:architecture:about:contact:other-works"/>
     <file name="jquery.watch.js" crc="4199601726" ref="index:architecture:about:contact:other-works"/>
     <file name="pie.js" crc="4147615982" ref="architecture:other-works"/>
-    <file name="webpro.js" crc="33264525" ref="architecture:contact:other-works"/>
+    <file name="webpro.js" crc="33264525" ref="architecture:other-works"/>
     <file name="musewpslideshow.js" crc="272207905" ref="architecture:other-works"/>
     <file name="jquery.museoverlay.js" crc="466079611" ref="architecture:other-works"/>
     <file name="touchswipe.js" crc="261777990" ref="architecture:other-works"/>
     <file name="musewpdisclosure.js" crc="250538392" ref="architecture:other-works"/>
-    <file name="form_check.php" crc="28954828" ref="contact"/>
-    <file name="form_throttle.php" crc="412380283" ref="contact"/>
-    <file name="form-u1690.php" crc="83056998" ref="contact"/>
   </folder>
   <folder name="images">
     <file name="money shot.jpg" crc="3775183978" ref="architecture"/>
@@ -94,10 +91,6 @@
     <file name="paraline113x110.jpg" crc="3904349080" ref="architecture"/>
     <file name="section202x110.jpg" crc="277771553" ref="architecture"/>
     <file name="picture of me.jpg" crc="171198607" ref="about:contact"/>
-    <file name="u1723-17.png" crc="199554554" ref="contact"/>
-    <file name="u1723-17-r.png" crc="4073510108" ref="contact"/>
-    <file name="u1723-17-m.png" crc="4270574922" ref="contact"/>
-    <file name="u1723-17-fs.png" crc="361920382" ref="contact"/>
     <file name="austin brown.jpg" crc="3803705557" ref="other-works"/>
     <file name="balcony.jpg" crc="182396171" ref="other-works"/>
     <file name="isaac.jpg" crc="91958523" ref="other-works"/>
@@ -161,6 +154,6 @@
   <file name="index.html" crc="221863671" mt="1401833346233" redirect="true"/>
   <file name="architecture.html" crc="4130942587" mt="1401250352820" redirect="true"/>
   <file name="about.html" crc="3976634736" mt="1401250352823" redirect="true"/>
-  <file name="contact.html" crc="317051333" mt="1401250352831" redirect="true"/>
+  <file name="contact.html" crc="357315191" mt="1401833921983" redirect="true"/>
   <file name="other-works.html" crc="4240974616" mt="1401250352832" redirect="true"/>
 </manifest>
