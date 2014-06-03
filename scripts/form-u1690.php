@@ -37,7 +37,7 @@ function emailFormSubmission()
 	$message = cleanupMessage($message);
 	
 	$formEmail = cleanupEmail($_REQUEST['Email']);
-	$headers = 'From:  GILB7324@VANDALS.UIDAHO.EDU' . "\r\n" . 'Reply-To: ' . $formEmail .  "\r\n" .'X-Mailer: Adobe Muse 7.3.5 with PHP/' . phpversion() . "\r\n" . 'Content-type: text/html; charset=utf-8' . "\r\n";
+	$headers = 'From:  GILB7324@VANDALS.UIDAHO.EDU' . "\r\n" . 'Reply-To: ' . $formEmail .  "\r\n" .'X-Mailer: Adobe Muse 7.4.30 with PHP/' . phpversion() . "\r\n" . 'Content-type: text/html; charset=utf-8' . "\r\n";
 	
 	$sent = @mail($to, $subject, $message, $headers);
 	

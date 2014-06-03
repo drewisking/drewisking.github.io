@@ -15,8 +15,7 @@
 {
 	z-index: 1;
 	width: 1080px;
-	min-height: 499.60000000000014px;
-	padding-bottom: 0px;
+	min-height: 500px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -24,14 +23,7 @@
 #page_position_content
 {
 	margin-top: 14px;
-	margin-bottom: 62px;
-}
-
-#pu1632
-{
-	width: 0.01px;
-	margin-left: 20px;
-	position: relative;
+	margin-bottom: -4px;
 }
 
 #u1632
@@ -51,21 +43,13 @@
 	left: 314px;
 }
 
-#pmenuu95
-{
-	width: 0.01px;
-	margin-left: 20px;
-	top: -8px;
-	margin-bottom: -8px;
-	position: relative;
-}
-
 #menuu95
 {
 	z-index: 3;
 	width: 1040px;
-	margin-right: -10000px;
-	margin-top: 1px;
+	margin-left: 20px;
+	top: -7px;
+	margin-bottom: -7px;
 }
 
 #u103
@@ -237,6 +221,13 @@
 	top: 7px;
 }
 
+#pu1632,#pu3453
+{
+	width: 0.01px;
+	margin-left: 20px;
+	position: relative;
+}
+
 #u3453
 {
 	z-index: 36;
@@ -247,7 +238,7 @@
 	background-color: rgba(255, 255, 255, 0.5);
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 665px;
+	margin-top: 629px;
 	-pie-background: rgba(255, 255, 255, 0.5);
 }
 
@@ -257,7 +248,6 @@
 	width: 1040px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 36px;
 }
 
 #u1195_clip
@@ -272,45 +262,6 @@
 	margin-bottom: -1px;
 }
 
-#u3457
-{
-	z-index: 40;
-	width: 1039px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #000000;
-	background-color: transparent;
-	padding-bottom: 12px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u3462-4
-{
-	z-index: 41;
-	width: 147px;
-	min-height: 17px;
-	color: #FFFFFF;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 709px;
-	left: 730px;
-}
-
-#u3468
-{
-	z-index: 45;
-	width: 200px;
-	min-height: 100px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 710px;
-	left: 901px;
-}
-
 #u3360
 {
 	z-index: 39;
@@ -320,8 +271,8 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 26px;
-	top: -100px;
-	margin-bottom: -100px;
+	top: -34px;
+	margin-bottom: -34px;
 	position: relative;
 }
 
